@@ -4,3 +4,5 @@ Author: Ranjith
 2.chat
 3.lastseen
 4.hiding last seen
+5.Adding the video 
+6.Adding the audio 
